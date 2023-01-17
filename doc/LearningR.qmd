@@ -24,6 +24,9 @@ Banana is **good** for your *health*.
 ```
 
 
+## Inserting images
+![Cute cat](Images/cat.webp) {#fig-cat}
+
 ```{r setup}
 #| include: false
 library(tidyverse)
